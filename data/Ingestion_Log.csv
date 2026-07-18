@@ -1,0 +1,7 @@
+ingestion_id,run_timestamp,report_type,source_file,source_drive_id,as_of_or_period,basis,rows_ingested,control_total,reconciled,status,notes
+ING-GL-2026-07-18,2026-07-18T23:30:00-04:00,General Ledger,Precision Blueprint Development_General Ledger.csv,1DcT8YQgs2PP41KhU0eVK7CDrW7BVF29l,"Jan 1 - Jun 30, 2026",Cash Basis,2154,1511485.52,Y,loaded (baseline),2154 txn lines; 169 subcontractor lines
+ING-TB-2026-07-18,2026-07-18T23:30:00-04:00,Trial Balance,Trial Balance - Last Week.xlsx,13IuPK7aEZzBAPhmQEDu8goBWZDe2z_PS,"As of Jul 11, 2026",Accrual Basis,82,1881728.02,Y,loaded (baseline),debits=credits balanced
+ING-AR-2026-07-18,2026-07-18T23:30:00-04:00,A/R Aging Detail,A_R Aging Detail Report - Last Week.xlsx,1VhiFK2Y64A403RJqFd-C2p3lG80rK7Ow,"As of Jul 11, 2026",,37,432296.14,Y,loaded (baseline),open balance ties to report TOTAL
+ING-AP-2026-07-18,2026-07-18T23:30:00-04:00,A/P Aging Detail,Precision Blueprint Development_A_P Aging Detail Report.xlsx,1nPYMlSpuC-038jQA2svvXPwhXnAPKfWm,"As of Jul 15, 2026",,7,12155.0,Y,loaded (baseline),open balance ties to report TOTAL & TB A/P line
+ING-WIP-2026-07-18,2026-07-18T23:30:00-04:00,JobTread WIP,job-export.csv,1znuclwf_FQ6XK7SdYvrOdQgtI4wwlEbs,"As of Jul 18, 2026",,23,445746.11,Y,loaded (baseline),23 fixed-fee jobs
+ING-PR_SUM-2026-07-18,2026-07-18T23:30:00-04:00,Payroll Summary,Payroll Summary 2025 - 2026.pdf,1OtZbwATsozCRzenWPoEE2e-tRpM7BFmr,6/20/2025 - 6/12/2026,,52,80007.78,Y,loaded (baseline),52 weekly checks; overhead/admin labor

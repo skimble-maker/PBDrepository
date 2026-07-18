@@ -1,0 +1,8 @@
+as_of_date,aging_bucket,txn_date,txn_type,num,vendor_name,due_date,days_past_due,amount,open_balance,is_subcontractor,source_file,ingested_at
+2026-07-15,91 or more days past due,2026-03-16,Bill,1288,GenCo Consulting,2026-04-15,94,145.0,145.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,61 - 90 days past due,2026-03-17,Bill,1295,GenCo Consulting,2026-04-16,93,30.0,30.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,CURRENT,2026-06-16,Bill,27500,GTI Geo Tech Testing and Inspections,2026-07-16,2,2600.0,2600.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,CURRENT,2026-06-16,Bill,001,Gen-Co Consulting LLC,2026-07-16,2,5500.0,5500.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,CURRENT,2026-06-18,Bill,002,J's Plumbing,2026-07-18,0,3500.0,3500.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,CURRENT,2026-06-19,Bill,1329,Gen-Co Consulting LLC,2026-07-19,-1,260.0,260.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00
+2026-07-15,CURRENT,2026-06-19,Bill,1330,Gen-Co Consulting LLC,2026-07-19,-1,120.0,120.0,,Precision Blueprint Development_A_P Aging Detail Report.xlsx,2026-07-18T23:30:00-04:00

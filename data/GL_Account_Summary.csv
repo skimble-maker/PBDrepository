@@ -1,0 +1,57 @@
+gl_account,txn_count,net_amount,subcontractor_lines,gl_period,gl_basis,source_file,note
+Sales,70,845647.19,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Sub-Contractors,169,379880.03,169,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Chase Plat Bus Checking 6106,537,97742.82,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Owner's Draw,123,-94160.49,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Job Supply,120,74294.29,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Chase Credit Card - 2877,293,62518.91,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Chase Business Card 3140 (9274)(7687),145,-57055.26,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Cost of Goods Sold,24,43410.52,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Wages,28,40384.68,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Commission Expense,59,30335.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Tax & Accounting Services,9,21954.46,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Website & Software,69,10492.23,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+2020 F350 Loan,9,-8754.95,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Legal Services,7,8276.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Gas,55,6681.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Owner's Contribution,4,5500.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Plans,8,5362.52,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Interest Paid,12,5154.96,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Advertising & Marketing,15,4558.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Payroll Taxes (ER),28,3366.24,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Cash Back Rewards,2,3246.61,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+50% Deductible,28,3240.85,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Wells Fargo Operating 9366,24,-3186.19,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Auto,6,3107.69,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Worker's Compensation,1,3000.1,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+License & Permit,1,2669.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Disposal,7,2493.1,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+MACU Loan,9,-2227.84,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Equipment Rental,10,2193.5,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Payroll Processing Fees,33,2164.51,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Repair & Maintenance,13,1819.79,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Prepaid Payroll,1,-1590.14,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Insurance Expense,3,1448.79,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Employee Meals - Non-Deductible,24,1207.71,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Telephone,5,1074.11,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Charitiable Contributions,8,1065.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Best Buy Store Credit,1,-852.59,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Advertising Expense,1,845.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Payroll Taxes,48,655.7,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Merchant Fees,4,634.66,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Client/Vendor Gifts,6,583.2,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Transportation,1,547.7,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Utilities & Internet,4,400.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Barclay CC 0333,64,372.83,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Office Supplies,18,326.16,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Lodging,1,289.51,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Deductible,3,133.81,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Registration & License Fees,2,120.06,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Parking,1,90.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Bank Charges & Fees,1,15.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Airfare,2,9.62,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Dividend,3,0.06,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+MACU Savings 6934,9,0.06,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Loan to Cindy & Paul,8,0.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Payroll Liabilities,4,0.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
+Unapplied Cash Bill Payment Expense,14,0.0,0,"Jan 1 - Jun 30, 2026",Cash Basis,Precision Blueprint Development_General Ledger.csv,full transaction detail in GL_Snapshots.csv / workbook
