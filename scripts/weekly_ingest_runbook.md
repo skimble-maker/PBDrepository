@@ -22,10 +22,21 @@ Development**.
 3. **Parse & normalize** with `scripts/build_financial_db.py`.
 4. **Reconcile** (build asserts): TB debits=credits; A/R and A/P open totals tie to the TB A/R and
    A/P lines; payroll totals tie to the report footer. On failure, stop and flag — do not append.
-5. **Append** new rows (dedup `GL_Snapshots` on `row_uid`; snapshot tables keyed by `as_of_date`).
-   Re-apply `Sub_Contract_Reference` vendor→job mappings to set `matched` allocation.
+5. **Append** with `scripts/merge_snapshots.py <new_tables_dir>` — idempotent: re-running the
+   same week adds 0 rows; a new week appends (GL dedup on `row_uid`; TB/AR/AP appended whole per
+   new `as_of_date`; Payroll on `pay_date`; WIP on `as_of_date`+job). It also **upserts**
+   `Sub_Contract_Reference`, preserving manual `linked_*` / `allocation_confidence` edits while
+   refreshing GL totals. Vendors mapped to a job there make matching GL sub lines `matched`.
 6. **Log** one `Ingestion_Log` row per file with rows ingested + control total + reconciled Y/N.
-7. **Commit & push** to the working branch; refresh `workbook/*.xlsx`.
+7. **Commit & push** to the working branch; rebuild `workbook/*.xlsx`.
+
+> **Google Sheet note:** the Drive `create_file` API can *create* a Sheet from CSV but cannot
+> edit one in place (nor write multiple tabs). So the Drive "Financial Performance DB (tables)"
+> Sheets are point-in-time exports, not live-updated. The **living store is git** (`data/*.csv`)
+> + `workbook/Financial_Performance_DB.xlsx`. To keep a live Google Sheet, open that workbook in
+> Google Sheets once (it becomes a native multi-tab Sheet you own); the weekly run keeps git +
+> the workbook current. Record vendor→job assignments in git `Sub_Contract_Reference.csv` (the
+> merge preserves them) — edits made only in a Drive export will not flow back.
 
 ## New reports the client is adding
 - **A/P Aging Detail** and **Payroll Summary** are now first-class (tables 5 & 6).
